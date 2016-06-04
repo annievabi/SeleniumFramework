@@ -1,7 +1,7 @@
 
 public class UsingThisKeyWord {
 	
-	int c=20, d=36,e=98;
+	int c=25, d=36,e=98;
 
 	public static void main(String[] args) {
 		
